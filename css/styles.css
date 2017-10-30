@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 @import url('https://fonts.googleapis.com/css?family=Lato:300');
 
 * {
@@ -102,4 +102,3 @@ button:focus {
 button:active {
 	border: 2px solid #7a7a7a;
 }
-
